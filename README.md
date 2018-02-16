@@ -15,5 +15,4 @@ TravelToExplore provides an alternate login functionalities by providing options
 ## Live Link
   http://traveltoexplore.biz
 
-## Source Code Link
-https://github.com/apannu/travelopedia
+
